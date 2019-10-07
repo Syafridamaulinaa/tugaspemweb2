@@ -1,0 +1,62 @@
+body{
+	font-family: 'Segoe UI', Arial;
+	background-image: url(6.jpg);
+	background-size: cover;
+}
+
+	.kepala h1{
+		text-align: center;
+		font-family: Baskerville Old Face;
+		font-size: 40px;
+		color: blue;
+		margin-top: 50px;
+	}
+
+	.foto{
+		border: 1px solid orchid;
+		float: left;
+
+	}
+
+	.isi1{
+		margin-top: 20px;
+	}
+
+	.isi2{
+		margin-top: 40px;
+	}
+
+	table,tr,td{
+		background-color: white;
+		font-family: time new roman;
+		font-size: 17px;
+		color: navy;
+		border: 2px solid slategray;
+		padding: 2px;
+		border-collapse: collapse;
+	}
+
+.tempat{
+		position: absolute;
+		margin-left: 899px;
+		margin-right: auto;
+		margin-bottom: auto;
+		margin-top: 435px;
+		left: 70px;
+		right: 0;
+		top: 160px;
+		bottom: 0;
+	}
+
+	.kaki{
+		text-align: center;
+    	width: 1449px;
+    	line-height: 50px;
+    	background: gray;
+    	color: white;
+    	margin-top: 50px;
+    	margin-left: -300px;
+    	margin-bottom: -10px;
+
+
+	}
